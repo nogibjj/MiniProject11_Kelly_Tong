@@ -7,7 +7,7 @@ The purpose of this repository is to record the building process for a data pipe
 This pipeline includes performing ingestig, preparing, and analyzing the data "song" automatically. 
 A workflow job is also built and created to automatically run this pipeline in Databricks. 
 The data "song" is a subset of the Million Song dataset. 
-The reference steps for creating the databricks is in [Build an end-to-end data pipeline](https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html)
+The reference steps for creating the databricks is in [Build an end-to-end data pipeline.](https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html)
 
 ## Result Query
 
